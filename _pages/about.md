@@ -1,11 +1,4 @@
 ---
-  permalink: /
-  title: "About Me"
-  author_profile: true
-  redirect_from:
-    - /about/
-    - /about.html
-  ---
 
   I am a graduate student at [Harbin Institute of Technology](https://www.hit.edu.cn/). My research lies in retrieval-augmented generation (RAG), with a focus on
   **graph-based retrieval (GraphRAG)** and **personalized, continual retrieval**.
